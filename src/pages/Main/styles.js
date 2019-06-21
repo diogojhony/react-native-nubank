@@ -4,8 +4,7 @@ import { getStatusBarHeight } from 'react-native-iphone-x-helper';
 
 export const Container = styled.View`
   flex: 1;
-  background: #13b15f;
-  /* background: #8b10ae; */
+  background: #8b10ae;
   padding-top: ${getStatusBarHeight()}px;
   justify-content: center;
 `;

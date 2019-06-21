@@ -19,8 +19,7 @@ export default function Menu({ translateY }) {
                     value="https://github.com/diogojhony"
                     size={80}
                     fgColor="#fff"
-                    bgColor="#13b15f"
-                // fgColor="#8b10ab"
+                    bgColor="#8b10ae"
                 />
             </Code>
 
